@@ -10,6 +10,7 @@ This project uses machine learning to predict whether a bank customer will churn
   - Deep Neural Network (PyTorch)
   - Logistic Regression (Scikit-learn)
 - Evaluation: Accuracy, Confusion Matrix, Classification Report
+- Possible - OVERFITTING AND DATALEAK
 
 ## 🧠 Model Details
 
@@ -18,6 +19,7 @@ This project uses machine learning to predict whether a bank customer will churn
 - Activation: Tanh
 - Loss: BCEWithLogitsLoss
 - Optimizer: Adam
+
 
 ### Logistic Regression
 - Used as a baseline
