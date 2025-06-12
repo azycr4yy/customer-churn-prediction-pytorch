@@ -29,5 +29,4 @@ This project uses machine learning to predict whether a bank customer will churn
 - Fixed pipeline: accuracy dropped to more realistic levels
 - PyTorch model tuned to match the corrected pipeline
 
-## 📁 Structure
 
